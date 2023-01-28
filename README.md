@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @VikasChoudhary01
+- 👋 Hi, I’m VikasChoudhary
 - 👀 I’m interested in Data Visualization, Data Analytics, AWS 
 - 🌱 I’m currently learning Data Science and Look for job in the same field.
 - 📫 How to reach me ...Email ID - VikasC81097@gmail.com
